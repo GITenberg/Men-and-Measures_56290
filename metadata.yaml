@@ -1,11 +1,16 @@
 _repo: Men-and-Measures_56290
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56290-h/images/cover.jpg
 creator:
   author:
     agent_name: Nicholson, Edward
     gutenberg_agent_id: '48768'
     url: http://www.gutenberg.org/2009/agents/48768
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56290#Men-and-Measures
 gutenberg_issued: '2018-01-02'
 gutenberg_type: Text
 identifiers:
